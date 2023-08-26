@@ -1,0 +1,28 @@
+{
+  "name": "@probir-sarkar/calcplus",
+  "version": "1.0.0",
+  "description": "A simple calculator with some extra features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probir-sarkar/calcplus.git"
+  },
+  "keywords": [
+    "calculator",
+    "calcplus",
+    "calc"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/probir-sarkar/calcplus/issues"
+  },
+  "homepage": "https://github.com/probir-sarkar/calcplus#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
